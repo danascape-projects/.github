@@ -2,7 +2,7 @@ Danascape Projects
 =======================
 
 If you are lost on my git then this is the place !!
-<br/>
+<br/><br/>
 Consists of both of my major and miscellaneous projects.
-<br/>
+<br/><br/>
 Some repositories are updated using scripts.
