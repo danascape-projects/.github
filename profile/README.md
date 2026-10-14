@@ -1,4 +1,4 @@
-Danascape Projects
+danascape Projects
 =======================
 
 If you are lost on my git then this is the place !!
